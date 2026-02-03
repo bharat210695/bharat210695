@@ -35,19 +35,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat210695&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharat210695&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat210695&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharat210695&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat210695&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat210695&layout=compact&theme=radical&langs_count=8" />
 </p>
+
 
 ---
 
