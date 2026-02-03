@@ -1,30 +1,58 @@
-```bash
-bharat@github:~$ whoami
-Bharat Agnibashya
+<h2 align="center">Hi 👋, I'm Bharat Agnibashya</h2>
+<h4 align="center">Lead Backend / Full-Stack Developer</h4>
 
-bharat@github:~$ role
-Lead Backend / Full-Stack Developer
+<p align="center">
+  <strong>Node.js • MySQL • Linux • System Design • Team Leadership</strong>
+</p>
 
-bharat@github:~$ experience
-4+ years
+---
 
-bharat@github:~$ stack
-Node.js | MySQL | Linux | Nginx | Git | JavaScript | Python
+## 🚀 About Me
+- 💻 Lead Backend / Full-Stack Developer with **4+ years of experience**
+- 🧱 Strong in **Node.js backend systems & MySQL database design**
+- 🐧 Experienced with **Linux server-side programming & deployments**
+- 🧠 Focused on **system architecture, scalability & performance**
+- 👥 Lead teams, mentor developers & review architecture/code
 
-bharat@github:~$ responsibilities
-- Design scalable backend architectures
-- Build high-performance Node.js APIs
-- MySQL optimization & indexing
-- Linux server-side programming
-- System architecture & deployments
-- Lead & mentor developers
+---
 
-bharat@github:~$ current_focus
-- Backend system design
+## 🧠 Main Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+## 🛠 Frameworks & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
+
+---
+
+## 📚 Currently Learning
 - Python for Data Analytics
-- AI-driven systems
+- Advanced SQL & Query Optimization
+- AI & Data-Driven Systems
 
-bharat@github:~$ echo "Building reliable systems, not just applications."
-Building reliable systems, not just applications.
+---
 
-bharat@github:~$ _
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/bharataggnibachya
+- 📍 Guwahati, Assam, India
+
+---
+
+⭐ *Building scalable systems, not just applications.*
