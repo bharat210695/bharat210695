@@ -51,7 +51,7 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
     </td>
     <td align="center">
       <b>Linux</b><br><br>
-      <img height="64" src="https://www.svgrepo.com/svg/452054/linux">
+      <img height="64" src="https://www.svgrepo.com/show/452054/linux.svg">
     </td>
     <td align="center">
       <b>Nginx</b><br><br>
