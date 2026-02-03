@@ -22,46 +22,26 @@ Currently expanding into **Python, Data Analytics & AI-driven systems** to build
 ## 🧠 My Tech Stack
 
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <b>JavaScript</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Node.js</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Python</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>MySQL</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-    </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <b>Linux</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Nginx</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Git</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <b>Express.js</b><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center">
+      <b>JavaScript</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/javascript.svg">
+    </td>
+    <td align="center">
+      <b>Node.js</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/nodejs.svg">
+    </td>
+    <td align="center">
+      <b>Python</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/python.svg">
+    </td>
+    <td align="center">
+      <b>MySQL</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/mysql.svg">
+    </td>
+  </tr>
 </table>
+
 
 ---
 
