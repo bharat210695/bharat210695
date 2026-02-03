@@ -27,7 +27,7 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
     </td>
     <td align="center">
       <b>Node.js</b><br><br>
-      <img height="64" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      <img height="64" src="https://www.svgrepo.com/show/354118/nodejs.svg">
     </td>
     <td align="center">
       <b>Python</b><br><br>
@@ -39,11 +39,11 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
     </td>
     <td align="center">
       <b>MongoDB</b><br><br>
-      <img height="64" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      <img height="64" src="https://www.svgrepo.com/show/331488/mongodb.svg">
     </td>
      <td align="center">
-      <b>GitoDB</b><br><br>
-      <img height="64" src="https://cdn.svgporn.com/logos/git.svg">
+      <b>Git</b><br><br>
+      <img height="64" src="https://www.svgrepo.com/show/452210/git.svg">
     </td>
     <td align="center">
       <b>Docker</b><br><br>
