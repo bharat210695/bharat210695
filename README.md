@@ -47,7 +47,7 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
     </td>
     <td align="center">
       <b>Docker</b><br><br>
-      <img height="64" src="https://cdn.svgporn.com/logos/docker.svg">
+      <img height="64" src="https://www.svgrepo.com/show/452192/docker.svg">
     </td>
     <td align="center">
       <b>Linux</b><br><br>
