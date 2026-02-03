@@ -1,32 +1,29 @@
-<pre style="background-color:#050505; color:#00ff00; padding:20px; border-radius:8px; font-family:Courier New, monospace;">
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> whoami
-<span style="color:#ffffff;">Bharat Agnibashya</span>
+bharat@github:~$ whoami
++ Bharat Agnibashya
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> role
-<span style="color:#ffffff;">Lead Backend / Full-Stack Developer</span>
+bharat@github:~$ role
++ Lead Backend / Full-Stack Developer
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> experience
-<span style="color:#ffffff;">4+ years</span>
+bharat@github:~$ experience
++ 4+ years
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> stack
-<span style="color:#ffffff;">Node.js | MySQL | Linux | Nginx | Git | JavaScript | Python</span>
+bharat@github:~$ stack
++ Node.js | MySQL | Linux | Nginx | Git | JavaScript | Python
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> responsibilities
-<span style="color:#ffffff;">
-- Design scalable backend architectures
-- High-performance Node.js APIs
-- MySQL optimization & indexing
-- Linux server-side programming
-- System architecture & deployments
-- Lead & mentor developers
-</span>
+bharat@github:~$ responsibilities
++ Design scalable backend architectures
++ Build high-performance Node.js APIs
++ MySQL optimization & indexing
++ Linux server-side programming
++ System architecture & deployments
++ Lead & mentor developers
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> current_focus
-<span style="color:#ffffff;">
-- Backend system design
-- Python for Data Analytics
-- AI-driven systems
-</span>
+bharat@github:~$ current_focus
++ Backend system design
++ Python for Data Analytics
++ AI-driven systems
 
-<span style="color:#ff5555;">bharat@github</span>:<span style="color:#00ff00;">~$</span> █
-</pre>
+bharat@github:~$ echo "Building reliable systems, not just applications."
++ Building reliable systems, not just applications.
+
+bharat@github:~$ _
