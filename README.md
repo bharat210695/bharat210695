@@ -1,65 +1,45 @@
-<h1 align="center">Hi 👋, I'm Bharat</h1>
-<h3 align="center">Lead Developer</h3>
+```bash
+bharat@github:~$ whoami
+Bharat Agnibashya
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Python+%26+Data+Analytics+Learner;Future+AI+Engineer;Building+Scalable+Applications" />
-</p>
+bharat@github:~$ role
+Lead Backend / Full-Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharat210695&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+bharat@github:~$ experience
+4+ years
 
----
+bharat@github:~$ stack
+Node.js | MySQL | Linux | Nginx | Git | JavaScript | Python
 
-## 🚀 About Me
-- 💻 Lead Full-Stack / Backend Developer with **4+ years of experience**
-- 🧱 Specialized in **Node.js backend systems, MySQL databases & Linux servers**
-- 🧠 Experienced in **system design, scalable architecture & performance optimization**
-- 👥 Lead and mentor development teams, manage code quality & delivery
-- 📊 Expanding expertise into **Python, Data Analytics & AI-driven systems**
+bharat@github:~$ responsibilities
+- Design scalable backend architectures
+- Build high-performance Node.js APIs
+- Manage MySQL databases & query optimization
+- Handle Linux server-side programming & deployments
+- Design system architecture & infrastructure
+- Lead and mentor development teams
+- Conduct code reviews & enforce best practices
 
+bharat@github:~$ current_focus
+- Advanced backend system design
+- Python for Data Analytics
+- AI-driven & data-informed systems
 
----
+bharat@github:~$ ls projects/
+blogging_api/
+nodejs-mysql-backend/
+system-design-notes/
+python-data-analytics/
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Linux-333?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Nginx-333?style=flat&logo=nginx" />
-  <img src="https://img.shields.io/badge/Git-333?style=flat&logo=git" />
-</p>
+bharat@github:~$ location
+India
 
----
+bharat@github:~$ contact
+LinkedIn : https://linkedin.com
+GitHub   : https://github.com/bharat210695
+Email    : your@email.com
 
+bharat@github:~$ echo "Building reliable systems, not just applications."
+Building reliable systems, not just applications.
 
-
-
----
-
-## 📌 Featured Projects (Coming Soon)
-- 🔹 **Python Data Analytics** – Pandas, NumPy, Visualization
-- 🔹 **SQL Analytics Case Studies** – Real-world queries
-- 🔹 **Node.js Backend APIs** – Auth, JWT, DBs
-- 🔹 **AI / ML Learning Notebooks** – Hands-on experiments
-
----
-
-## ☕ Support My Work
-<a href="https://www.buymeacoffee.com/yourname">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a>
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com
-- 📧 Email: your@email.com
-- 🌐 Portfolio: Coming soon 🚀
-
----
-
-🔥 *Consistent learning + consistent commits = unstoppable growth*
+bharat@github:~$ █
